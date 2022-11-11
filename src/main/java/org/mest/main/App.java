@@ -1,6 +1,9 @@
 package org.mest.main;
 
+import org.mest.abs_tracts.Business;
 import org.mest.abs_tracts.Shape;
+import org.mest.abs_tracts.Subject;
+import org.mest.abs_tracts.Tech;
 import org.mest.cl_asses.Dog;
 import org.mest.cl_asses.Payment;
 import org.mest.cl_asses.Status;
@@ -8,6 +11,8 @@ import org.mest.cl_asses.User;
 import org.mest.en_numerators.NetworkType;
 import org.mest.in_heritance.Rectangle;
 import org.mest.in_heritance.Square;
+import org.mest.in_terfaces.BusinessInt;
+import org.mest.in_terfaces.SubjectInt;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -57,6 +62,17 @@ public class App {
 
         HashMap<Integer, String> seniorNameHash = new HashMap<Integer,String>();
         seniorNameHash.put(10,"Bright");
+
+
+        //MARK: using the subject abstracts
+        Subject business = new Business(10);
+        business.represent();
+
+        Subject tech = new Tech(10);
+        tech.represent();
+
+        SubjectInt businessInt = new BusinessInt();
+        businessInt.represent();
 
     }
 

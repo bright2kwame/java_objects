@@ -1,4 +1,4 @@
-package org.mest.in_heritance;
+package org.mest.in_terfaces;
 
 public interface APIInterface<T> {
 
