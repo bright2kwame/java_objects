@@ -1,4 +1,4 @@
-package org.mest.in;
+package org.mest.in_heritance;
 
 public class APICall implements APIInterface<String> {
 

@@ -1,4 +1,4 @@
-package org.mest.abs;
+package org.mest.abs_tracts;
 
 public abstract class AnimalAbstract {
 

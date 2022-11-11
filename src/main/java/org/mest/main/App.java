@@ -1,13 +1,13 @@
 package org.mest.main;
 
-import org.mest.abs.Shape;
-import org.mest.cl.Dog;
-import org.mest.cl.Payment;
-import org.mest.cl.Status;
-import org.mest.cl.User;
-import org.mest.en.NetworkType;
-import org.mest.in.Rectangle;
-import org.mest.in.Square;
+import org.mest.abs_tracts.Shape;
+import org.mest.cl_asses.Dog;
+import org.mest.cl_asses.Payment;
+import org.mest.cl_asses.Status;
+import org.mest.cl_asses.User;
+import org.mest.en_numerators.NetworkType;
+import org.mest.in_heritance.Rectangle;
+import org.mest.in_heritance.Square;
 
 import java.util.ArrayList;
 import java.util.HashMap;

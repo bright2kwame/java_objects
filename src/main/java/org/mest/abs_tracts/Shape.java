@@ -1,4 +1,4 @@
-package org.mest.abs;
+package org.mest.abs_tracts;
 
 abstract public class Shape {
 

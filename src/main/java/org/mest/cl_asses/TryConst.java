@@ -1,4 +1,4 @@
-package org.mest.cl;
+package org.mest.cl_asses;
 
 public class TryConst {
     private String username;

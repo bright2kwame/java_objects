@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6543d6e3-635a-4833-b15e-ff9e92b5c5fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/mest/abs/AnimalAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/mest/abs/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/mest/cl/Cattle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/mest/cl/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/mest/en/NetworkType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/mest/in/APICall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/mest/in/APIInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/mest/in/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/mest/in/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/mest/main/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/mest/cl/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/mest/cl/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/mest/cl/Status.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TryConst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/mest/cl/TryConst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/mest/cl/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/mest/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="6543d6e3-635a-4833-b15e-ff9e92b5c5fb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

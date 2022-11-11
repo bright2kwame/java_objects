@@ -1,6 +1,6 @@
-package org.mest.in;
+package org.mest.in_heritance;
 
-import org.mest.abs.Shape;
+import org.mest.abs_tracts.Shape;
 
 public class Rectangle extends Shape {
 
