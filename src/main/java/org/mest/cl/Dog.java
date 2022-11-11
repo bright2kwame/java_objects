@@ -1,11 +1,11 @@
-package org.example;
+package org.mest.cl;
 
 public class Dog {
 
     String name = "";
     int age = 0;
 
-    Dog(String name){
+    public Dog(String name){
       this.name = name;
     }
 
@@ -23,11 +23,11 @@ public class Dog {
         System.out.println("Running");
     }
 
-    String getName(String type){
+    public String getName(String type){
         return type + name;
     }
 
-    String getName(String type, String breed){
+    public String getName(String type, String breed){
         return type + breed + name;
     }
 

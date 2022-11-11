@@ -1,4 +1,4 @@
-package org.example;
+package org.mest.cl;
 
 import java.util.Date;
 

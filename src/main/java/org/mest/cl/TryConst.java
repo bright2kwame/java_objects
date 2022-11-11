@@ -1,4 +1,4 @@
-package org.example;
+package org.mest.cl;
 
 public class TryConst {
     private String username;

@@ -1,4 +1,4 @@
-package org.example;
+package org.mest.cl;
 
 /**
  * created to handle all payments momo payments
@@ -46,5 +46,23 @@ public class Payment {
      */
     public String getPhoneNumber() {
         return phoneNumber;
+    }
+
+
+    public void setAmount(double amount) {
+        if (amount > 0){
+            System.out.println("Setting amount>>>>> " + amount);
+            this.amount = amount;
+        }  else {
+            System.out.println("Invalid amount");
+        }
+
+    }
+
+    public static void main(String[] args) {
+        Payment payment = new Payment("809386","BOD",23,"GHS");
+        Payment payment1 = new Payment("809386","BOD",23,"GHS");
+        payment.setAmount(30);
+
     }
 }

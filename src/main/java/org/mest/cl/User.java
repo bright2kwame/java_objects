@@ -1,4 +1,4 @@
-package org.example;
+package org.mest.cl;
 
 public class User {
     String firstName = "";
@@ -7,7 +7,7 @@ public class User {
 
     private Status status;
 
-    User(String firstName){
+    public User(String firstName){
         this.firstName = firstName;
         this.status = new Status();
     }
